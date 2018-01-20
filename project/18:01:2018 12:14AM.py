@@ -1,5 +1,2 @@
-## first project
-## python
-## hello world
+you have found the secret message
 
-print ("hello world")
