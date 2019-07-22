@@ -1,2 +1,3 @@
-you have found the secret message
+def secretMsg = 'you have found the secret message';
+secretMsg();
 
