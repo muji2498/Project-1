@@ -11,12 +11,12 @@ class messages():
 # kilograms
   def bmi_calc_meters(self, weight, height):
     bmi = weight / height ^ 2
-    return bmi
+    print(bmi)
 #------------------------------------------------------
   
   
 # this function is to calculate bmi using feet and lbs
   def bmi_calc_feet(self, weight, height):
     bmi = 703 * weight / height ^ 2
-    return bmi
+    print(bmi)
 #------------------------------------------------------
